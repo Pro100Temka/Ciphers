@@ -1,2 +1,2 @@
 # Ciphers
-Some easy ciphers for studyingю
+Some easy ciphers for studying.
